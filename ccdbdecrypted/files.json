@@ -1,0 +1,35 @@
+{
+    "version": 1808,
+    "date": 1750172402,
+    "pubkey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkcNVc0nfi7w6ojGvlq95EjZMCZkcDPYbifT3ws1IN2RYhbjQ6dTxPzjyw\/WqvtNYNzRWKlF3XLiUOkI39hb8dLkzq2ondYRT9ubcSNvxoEBDaLq3ZFI2sItkiVL1GCB7sPy1SSbZMyrlFyRRFPnrA25ZO6J1vU9gN\/GHBzykRFaEQdstGvSUmRh8I+Ky6G2WknI69FNf0RRRu7BUrEgj+XWyVZveCQ088XdkrGGL1b4iv1014HB7ahPJwASRKwLdZQMx6+P0HAicSMRBO3gl\/e2lsePGyl5rpTup8reqS4QTsR6E2EuJ5tIg5foc812vwd5VWrO182ofpx5yb\/pmOwIDAQAB",
+    "files": [
+        {
+            "fileName": "pn_spam.ccdb",
+            "engineVersion": 1,
+            "func": "pn_spam",
+            "sig": "b5tt1kL+thQm3BzyfT6oidtGnDbRwo6iMujitcPBYbfrvH0vAR8dx4ZXX+qBqN\/oXvzSHqPlUWCUUT\/eJStWJTs4sygiLB6FQJ+cvQ+QQRyH1aIZxqZaxUNcBaFuDq6Lz6t7fQIi9hqabOHW9g37pwcAIRoa1cvDQ2dlskQAFPni+bPp1LG8RDKhp9lFgt9KzX54oS+gArGtK+pHDweteHMxgePkpBJIUBKoe0XcCsWYYhJkEYcPyAX2O1eAst+lXcdGZGOCNoFqurH+ed1g08vCcrIHgy7rbItExl1Vuq2nXovTSq6Roi3OxRn+Dvi1JkfMAxgLXepGdL9EeHDrGQ==",
+            "hash": "64d8a7eef90f3ae68fdd4b5a40d8a3c3e6ef0a6a7910779da178064e1c56b000"
+        },
+        {
+            "fileName": "chromium_ext.ccdb",
+            "engineVersion": 1,
+            "func": "chromium_ext",
+            "sig": "EzmxbZDVt4wMp2kN17AuelnJpE+ny0Ku\/npppubBc+PNEUSDY+PfLCWNIUmypB5qfDSy1S\/prpM4BQfskDbhpi1aqFTTLb6M2vdpq2L6rfDT8VMipPPCZ\/wcZKhcmyIRWZJS9nPK8+eXrFqUvDRU1bgPUzSqj0gu9o5K+TOgHEJUCcBsuxdpdqksemmMelssbYQ\/djzGPLWO06xK+dH0lcR09uxUFkn\/cyvTP0PU3KRdbWuw9SQKm62a2x5yIhJzzWyK7k25kbmC9Sww1DS4j8TOQ\/6bo8t3REaXUb\/VAbjOXzbf0LSLvlooLAIaU5VDL98vHbiWXW3jzeE2O8YYaw==",
+            "hash": "8e216fb85aebf0aa6d5a74a621cef581004d646d4590565338987f3be3a28cb9"
+        },
+        {
+            "fileName": "wht.ccdb",
+            "engineVersion": 1,
+            "func": "wht",
+            "sig": "MmEbpbnNHooPWGe0c0S+dmOA3i5O0O6pAIXH2fMgadkn6CC5PrZjSBJkwAq+yWgGt0hrf8ezUZ51KiiFvUz4uwLd1BQ\/JQHkDm5J8y7mzk2CYyODBZiVLkzwuFoy19MdK7Up+AHtVLpg3vDUIGxEmyY7RI5GubjfOcGfG+pszMyFf1tIRJiP2vfI0vibNI4ptaQgnypZf4hlhbex598lkZhw2YcqHcbMZON9cUz6dBnHVXBX3ewbFIW\/nzWEGIQmToXszVUKJIlSpJiVvSiIRI7owKUNBfx+9M0PRbcCsvcIobXXNkFSBvhpJ+WKiz\/SpddBzdPZajmDhIwlftuCsA==",
+            "hash": "4ef5641679db973a047972b9e0eeb8c684bc198a9d6cc7ce34c20ed4b3703f71"
+        },
+        {
+            "fileName": "ff_ext.ccdb",
+            "engineVersion": 1,
+            "func": "ff_ext",
+            "sig": "B+o76ZS5w+5RpnryKc9IcMYSin1NMBQAQ51lKMnS2fnvJZNL\/9rb3m44GOp\/6OJCUVn96NZKm9OWURPijfQZYZIfRo+bJd6FoB07FF6jkZTndq0g0LkOpD0SS2qMYr0d0q4UwAAOSsEamXdApF837jz14JEpMLs17Ji7cy7C617OZ6EdY\/bEKaPSS3IQWu906YLN\/RY0rWp\/Ykpv+nDEehsW\/fk3dvUh\/ZZadKRwCQP9YxrTqnV78WAAXb0KMRT9OrRBTehwqK4nRWjjKxS6uO4z\/OCEiGoET6piLpcFvT4wXHeHhOeVb9BFBzFZBXfM0JrwOG0CO8GvLseI+Av7Kw==",
+            "hash": "836eb2b514ec996cc88f756a29df4558687603b3fc02077a63331fb853ec66ed"
+        }
+    ]
+}
